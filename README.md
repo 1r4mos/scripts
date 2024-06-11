@@ -1,4 +1,4 @@
-# Organização de Pastas
+# Scripts 
 
 Este repositório contém uma coleção de scripts organizados em três diretórios diferentes: Bash, C e Python. Abaixo está uma descrição detalhada da estrutura de cada diretório:
 
